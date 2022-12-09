@@ -1,16 +1,41 @@
-# lesson3
+# Практическая работа №3
 
-A new Flutter project.
+## Тема: Cubit
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Цель работы: создать проект с использованием Cubit. Реализовать счетчик при нажатии на кнопку + осуществляет увеличение счетчика, при нажатии на кнопку - осуществляться уменьшение счетчика. Каждое действие должно записываться в историю. История должна быть реализована через виджет ListView.
 
-A few resources to get you started if this is your first Flutter project:
+### Ход работы:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Верстка приложения](https://user-images.githubusercontent.com/114491231/206646526-b897f57d-769e-43e6-98df-93f59cebbded.png)
+Верстка приложения
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Верстка приложения](https://user-images.githubusercontent.com/114491231/206646682-2f49c71f-1d51-46e6-bfdb-a204c181b167.png)
+Верстка приложения
+
+![Верстка приложения](https://user-images.githubusercontent.com/114491231/206646735-01887a69-b778-43a1-8ae3-951859476c5b.png)
+Верстка приложения
+
+![Верстка приложения](https://user-images.githubusercontent.com/114491231/206646785-43046e54-136c-4299-a9ea-529a1df5ef3d.png)
+Верстка приложения
+
+![Кубит для клика](https://user-images.githubusercontent.com/114491231/206647142-32498625-5aa6-4a97-b7df-164112500076.png)
+Кубит для клика
+
+![Состояние клика](https://user-images.githubusercontent.com/114491231/206647173-c2a396fa-e27d-4857-91a4-25b41ce6ef9c.png)
+Состояние клика
+
+![кубит для списка истории](https://user-images.githubusercontent.com/114491231/206647211-64a0b8e3-03ea-40b1-81df-3626a8ac0bdb.png)
+кубит для списка истории
+
+![состояние для списка истории](https://user-images.githubusercontent.com/114491231/206647263-ecda56ae-57fc-41de-9b69-ed1823168d1c.png)
+состояние для списка истории
+
+![кубит для смены темы](https://user-images.githubusercontent.com/114491231/206647293-d82dfb10-8676-47ab-afdf-5f565e144ac7.png)
+кубит для смены темы
+
+![Результат работы программы](https://user-images.githubusercontent.com/114491231/206647328-fb0b22f7-29c9-4fb9-b837-029815284479.png)
+Результат работы программы
+
+Вывод: создали проект с использованием Cubit. Реализовали счетчик при нажатии на кнопку + осуществляет увеличение счетчика, при нажатии на кнопку - осуществляться уменьшение счетчика. Каждое действие записываться в историю. История должна быть реализована через виджет ListView.  
+
